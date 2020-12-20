@@ -1,0 +1,12 @@
+C:\Users\Admin501\source\repos\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.deps.json
+C:\Users\Admin501\source\repos\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.runtimeconfig.json
+C:\Users\Admin501\source\repos\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.runtimeconfig.dev.json
+C:\Users\Admin501\source\repos\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Admin501\source\repos\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.genruntimeconfig.cache
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csprojAssemblyReference.cache

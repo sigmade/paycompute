@@ -1,0 +1,4 @@
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csprojAssemblyReference.cache
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\Admin501\source\repos\Paycompute.Entity\obj\Debug\netcoreapp3.1\Paycompute.Entity.csproj.CoreCompileInputs.cache
