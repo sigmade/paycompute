@@ -12350,11 +12350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin501\\source\\repos\\Paycompute\\Paycompute.csproj",
+      "projectUniqueName": "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
       "projectName": "Paycompute",
-      "projectPath": "C:\\Users\\Admin501\\source\\repos\\Paycompute\\Paycompute.csproj",
+      "projectPath": "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute\\Paycompute.csproj",
       "packagesPath": "C:\\Users\\Admin501\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin501\\source\\repos\\Paycompute\\obj\\",
+      "outputPath": "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12374,11 +12374,11 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\Admin501\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Users\\Admin501\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Users\\Admin501\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj": {
-              "projectPath": "C:\\Users\\Admin501\\source\\repos\\Paycompute.Services\\Paycompute.Services.csproj"
+            "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj": {
+              "projectPath": "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute.Services\\Paycompute.Services.csproj"
             }
           }
         }

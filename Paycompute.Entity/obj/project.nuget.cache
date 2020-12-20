@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTxcXKraC1K6b10F7vBrnYWf08lrCrdmfJlgO5P3jlYEVD0u1tlxxWmvluzQonZ7bZhIp7SnDp2lNfKPSWvs8A==",
+  "dgSpecHash": "dDBAuNj4zwvNCJJcNRTrlDiLoqacpHoyNTNS2kwO80yZcArP6Ms2JNQkmeWuD6ZGJjA+xg+PCDfJRlHU0izadw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin501\\source\\repos\\Paycompute.Entity\\Paycompute.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Admin501\\source\\repos\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin501\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin501\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
