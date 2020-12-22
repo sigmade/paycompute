@@ -8,16 +8,16 @@ using System.Threading.Tasks;
 
 namespace Paycompute.Models
 {
-    public class EmployeeCreateViewModel
+    public class EmployeeEditViewModel
     {
         public int Id { get; set; }
-        [Required(ErrorMessage = "Employee Number is required"), 
+        [Required(ErrorMessage = "Employee Number is required"),
             RegularExpression(@"^[A-Z]{3,3}[0-9]{3}$")]
         public string EmployeeNo { get; set; }
 
 
         [Required(ErrorMessage = "First Name is required"), Display(Name = "First Name"),
-            StringLength(50, MinimumLength =2),
+            StringLength(50, MinimumLength = 2),
             RegularExpression(@"^[A-Z][a-zA-Z""'\s-]$")]
         public string FirstName { get; set; }
 
@@ -33,20 +33,14 @@ namespace Paycompute.Models
             RegularExpression(@"^[A-Z][a-zA-Z""'\s-]$")]
         public string LastName { get; set; }
 
-
-        public string FullName { 
-            get {
-                return FirstName + (string.IsNullOrEmpty(MiddleName) ? " " : (" " + (char?)MiddleName[0] + ".").ToUpper()) + LastName;
-            }
-        }
         public string Gender { get; set; }
         [Display(Name = "Photo")]
         public IFormFile ImageUrl { get; set; }
         [DataType(DataType.Date), Display(Name = "Date of Birth")]
         public DateTime DOB { get; set; }
         [DataType(DataType.Date), Display(Name = "Date Joined")]
-        public DateTime DateJoined { get; set; } = DateTime.UtcNow;
-        public string  Phone { get; set; }
+        public DateTime DateJoined { get; set; } 
+        public string Phone { get; set; }
         [Required(ErrorMessage = "Job Role is required"), StringLength(100)]
         public string Designation { get; set; }
         [DataType(DataType.EmailAddress)]
@@ -67,4 +61,5 @@ namespace Paycompute.Models
         [Required, StringLength(50)]
         public string Postcode { get; set; }
     }
+}
 }

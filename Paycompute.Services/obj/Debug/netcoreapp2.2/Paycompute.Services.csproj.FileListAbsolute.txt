@@ -12,3 +12,17 @@ C:\Users\Admin501\source\repos\Paycompute.Services\obj\Debug\netcoreapp2.2\Payco
 C:\Users\Admin501\source\repos\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
 C:\Users\Admin501\source\repos\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
 C:\Users\Admin501\source\repos\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.deps.json
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Services.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycomputer.Persistence.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\bin\Debug\netcoreapp2.2\Paycomputer.Persistence.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csprojAssemblyReference.cache
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfoInputs.cache
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.AssemblyInfo.cs
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CoreCompileInputs.cache
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.csproj.CopyComplete
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycompute.Services\obj\Debug\netcoreapp2.2\Paycompute.Services.pdb

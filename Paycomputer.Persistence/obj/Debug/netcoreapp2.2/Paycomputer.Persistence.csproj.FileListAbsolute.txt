@@ -10,3 +10,15 @@ C:\Users\Admin501\source\repos\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\P
 C:\Users\Admin501\source\repos\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.csproj.CopyComplete
 C:\Users\Admin501\source\repos\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.dll
 C:\Users\Admin501\source\repos\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\bin\Debug\netcoreapp2.2\Paycomputer.Persistence.deps.json
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\bin\Debug\netcoreapp2.2\Paycomputer.Persistence.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\bin\Debug\netcoreapp2.2\Paycomputer.Persistence.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.csprojAssemblyReference.cache
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.AssemblyInfo.cs
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.csproj.CopyComplete
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.dll
+C:\Users\Admin501\source\repos\PaycomputeApp\Paycomputer.Persistence\obj\Debug\netcoreapp2.2\Paycomputer.Persistence.pdb
