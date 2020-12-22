@@ -18,19 +18,19 @@ namespace Paycompute.Models
 
         [Required(ErrorMessage = "First Name is required"), Display(Name = "First Name"),
             StringLength(50, MinimumLength =2),
-            RegularExpression(@"^[A-Z][a-zA-Z""'\s-]$")]
+            RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$")]
         public string FirstName { get; set; }
 
 
         [Display(Name = "Middle Name"),
             StringLength(50, MinimumLength = 2),
-            RegularExpression(@"^[A-Z][a-zA-Z""'\s-]$")]
+            RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$")]
         public string MiddleName { get; set; }
 
 
         [Required(ErrorMessage = "Last Name is required"), Display(Name = "Last Name"),
             StringLength(50, MinimumLength = 2),
-            RegularExpression(@"^[A-Z][a-zA-Z""'\s-]$")]
+            RegularExpression(@"^[A-Z][a-zA-Z""'\s-]*$")]
         public string LastName { get; set; }
 
 

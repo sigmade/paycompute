@@ -33,7 +33,7 @@
                                  {
                                  <tr>
                                      <td>
-                                         <a asp-action="Detail" asp-route="@item.Id">@item.EmployeeNo</a>
+                                         <a asp-action="Detail">@item.EmployeeNo</a>
                                      </td>
                                      <td>
                                          <img src="@Url.Content(item.ImageUrl)"/>
@@ -44,13 +44,13 @@
                                      <td>@item.City</td>
                                      <td>@item.DateJoined</td>
                                      <td>
-                                         <a class="text-primary" asp-action="Edit" asp-route="@item.Id">
+                                         <a class="text-primary" asp-action="Edit" >
                                              <i class="fas fa-edit"></i>Edit
                                          </a>
-                                         <a class="text-success" asp-action="Detail" asp-route="@item.Id">
+                                         <a class="text-success" asp-action="Detail" >
                                              <i class="fas fa-bars"></i>Detail
                                          </a>
-                                         <a class="text-primary" asp-action="Delete" asp-route="@item.Id">
+                                         <a class="text-primary" asp-action="Delete" >
                                              <i class="fas fa-trash-alt"></i>Delete
                                          </a>
                                      </td>
