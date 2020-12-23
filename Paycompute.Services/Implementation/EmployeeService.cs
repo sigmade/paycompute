@@ -46,14 +46,17 @@ namespace Paycompute.Services.Implementation
             throw new NotImplementedException();
         }
 
-        public Task UpdateAsync(Employee employee)
+        public async Task UpdateAsync(Employee employee)
         {
-            throw new NotImplementedException();
+            _context.Update(employee);
+            await _context.SaveChangesAsync();
         }
 
-        public Task UpdateAsync(int id)
+        public async Task UpdateAsync(int id)
         {
-            throw new NotImplementedException();
+            var employee = GetById(id);
+            _context.Update(employee);
+            await _context.SaveChangesAsync();
         }
     }
 }
