@@ -4463,6 +4463,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Paycompute.Entity": "1.0.0",
           "Paycomputer.Persistence": "1.0.0"
         },
