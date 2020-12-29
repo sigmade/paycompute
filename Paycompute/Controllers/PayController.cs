@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Paycompute.Entity;
 using Paycompute.Models;
 using Paycompute.Services;
-//using RotativaCore;
+using RotativaCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Paycompute.Controllers
 {
-    [Authorize(Roles = "Admin,Manager")]
+    //[Authorize(Roles = "Admin,Manager")]
     public class PayController : Controller
     {
         private readonly IPayComputationService _payComputationService;
@@ -58,7 +58,7 @@ namespace Paycompute.Controllers
             return View(payRecords);
         }
 
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
         public IActionResult Create()
         {
             ViewBag.employees = _employeeService.GetAllEmployeesForPayroll();
@@ -69,7 +69,7 @@ namespace Paycompute.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        [Authorize(Roles = "Admin")]
+        //[Authorize(Roles = "Admin")]
         public async Task<IActionResult> Create(PaymentRecordCreateViewModel model)
         {
             if (ModelState.IsValid)
@@ -146,7 +146,7 @@ namespace Paycompute.Controllers
         }
 
         [HttpGet]
-        [AllowAnonymous]
+        //[AllowAnonymous]
         public IActionResult Payslip(int id)
         {
             var paymentRecord = _payComputationService.GetById(id);
@@ -186,13 +186,13 @@ namespace Paycompute.Controllers
             return View(model);
         }
 
-        //public IActionResult GeneratePayslipPdf(int id)
-        //{
-        //    var payslip = new ActionAsPdf("Payslip", new { id = id })
-        //    {
-        //        FileName = "payslip.pdf"
-        //    };
-        //    return payslip;
-        //}
+        public IActionResult GeneratePayslipPdf(int id)
+        {
+            var payslip = new ActionAsPdf("Payslip", new { id = id })
+            {
+                FileName = "payslip.pdf"
+            };
+            return payslip;
+        }
     }
 }
