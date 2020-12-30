@@ -21,7 +21,7 @@ namespace Paycompute.Controllers
             _hostingEnvironment = hostingEnvironment;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int? pageNumber)
         {
             var employees = _employeeService.GetAll().Select(employee => new EmployeeIndexViewModel
             {
@@ -35,7 +35,8 @@ namespace Paycompute.Controllers
                 DateJoined = employee.DateJoined
 
             }).ToList();
-            return View(employees);
+            int pageSize = 4;
+            return View(EmployeeListPagination<EmployeeIndexViewModel>.Create(employees, pageNumber ?? 1, pageSize));
         }
         [HttpGet]
         public IActionResult Create()
